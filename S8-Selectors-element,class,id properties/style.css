@@ -1,0 +1,30 @@
+
+img{
+    width: 630px;
+    border: 2px solid tomato;  
+    background-color: blue; 
+    box-shadow: 10px 10px 10px black;
+    margin: 3px;
+}
+.radius{
+    border-radius: 50px;
+}
+h1{
+    background-color: darkorange;
+    color: white;
+    text-align: center;
+    border: 10px solid deepskyblue;
+    font-size: 4rem;
+    border-radius: 40px;
+    box-shadow: 10px 10px 10px black;   
+}
+.Honda{
+    background-color: blueviolet;
+}
+#swift{
+    width: 700px;
+    border: 20px dashed red;
+    border-radius: 50%;
+    background-color: green;
+
+}
